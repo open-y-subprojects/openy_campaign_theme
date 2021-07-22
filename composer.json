@@ -1,0 +1,10 @@
+{
+  "name": "open-y-subprojects/openy_campaign_theme",
+  "description": "Built on top of Open Y Rose theme as a subtheme.",
+  "type": "drupal-theme",
+  "license": "GPL-2.0-or-later",
+  "homepage": "https://github.com/open-y-subprojects/openy_campaign_theme",
+  "require": {
+    "open-y-subprojects/openy_campaign": "*"
+  }
+}
